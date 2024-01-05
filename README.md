@@ -10,4 +10,4 @@ Anggota Kelompok :
 Di github ini kami menyantumkan file source code dari project kami beserta flowchartnya.
 
 Untuk video penjelesan dan demonstrasi sudah kami di upload di YT
-Berikut link YouTube : https://youtu.be/ZPp-Sc6kPi0?si=_WKLtxmoQicKBpX6
+Berikut link YouTube : https://youtu.be/ZPp-Sc6kPi0?si=LEI3OS2pS402XAMV
